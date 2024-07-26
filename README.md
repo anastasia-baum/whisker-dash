@@ -20,3 +20,7 @@ Benutze die Leertaste oder Pfeiltaste nach oben auf deiner Tastatur, um die Katz
 
 Viel Glück, und mögen die Schnurrhaare mit dir sein!
 ____________________________
+# Design
+In meinem Design habe ich mich bewusst für die Verwendung von Pink und zarten Tönen entschieden, um eine einladende und positive Atmosphäre zu schaffen. Pink ist eine Farbe, die oft mit Wärme, Freundlichkeit und Kreativität assoziiert wird. Sie vermittelt ein Gefühl von Sanftheit und Zärtlichkeit, das perfekt geeignet ist, um ein Gefühl der Vertrautheit zu fördern. Durch den Einsatz von runden Elementen wirkt das Design weicher und zugänglicher und insgesamt Freundlicher🙂. Unteranderem diente meine eigene Katze als Vorlage und hat das Charakterdesign sowie das Logo inspiriert
+
+![whiskerdash](https://github.com/user-attachments/assets/629e8096-b6f2-46dc-b498-698f9a4f7ca3)
